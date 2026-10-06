@@ -1,0 +1,10 @@
+=== STORE PURCHASE RECEIPT ===
+Item Purchased: Mechanical Keyboard
+Quantity: 2
+Price per unit: $49.99
+VIP Discount Eligible: true
+------------------------------
+Subtotal: $99.98
+Tax (12%): $11.9976
+Grand Total: $111.97760000000001
+Qualifies for Free Shipping? true
